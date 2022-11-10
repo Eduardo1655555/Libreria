@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cB/iN3Kot1quFLIRDGmPtZIUbe35q+aYTJyjUiJqWUdatx9lYPPz4ER3Gy1Mx+DEFTTUwoDDHKr2FrNajJjxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanjo\\source\\repos\\libreria16_EFA\\libreria16_EFA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanjo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

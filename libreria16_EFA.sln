@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libreria16_EFA", "libreria16_EFA.csproj", "{95FF22FB-9398-43E9-87B3-DC01D0FC4564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FF22FB-9398-43E9-87B3-DC01D0FC4564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FF22FB-9398-43E9-87B3-DC01D0FC4564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FF22FB-9398-43E9-87B3-DC01D0FC4564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FF22FB-9398-43E9-87B3-DC01D0FC4564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C51F7E3-48CD-47E7-B6E1-E7C9D1B0F935}
+	EndGlobalSection
+EndGlobal
